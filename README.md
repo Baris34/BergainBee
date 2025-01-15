@@ -49,4 +49,12 @@ BergainBee is a mobile application developed to allow users to easily compare pr
 - [ ] Advanced discount notification system.
 - [ ] Completion of frontend development (React Native).
 - [x] Static data-based product display.
-   
+
+## Team
+The following individuals have contributed to the development of BergainBee:
+
+- [Barış Kaya](https://github.com/Baris34) - Backend Developer (Java Spring Boot)
+- [Yusuf Ahmet Tokgöz](https://github.com/yahmettokgoz) - Frontend Developer (React Native)
+- [Elif Buse Köprücü](https://github.com/buselifkprc) - Frontend Developer (React Native)
+- [Mehmet Fatih Akbaş](https://github.com/mfatihakbas) - Database Architect (PostgreSQL)
+- [Utku Alyüz](https://github.com/UtkuAlyuz) - Database Architect (PostgreSQL)
